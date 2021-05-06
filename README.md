@@ -29,8 +29,15 @@ Aula DIO usando bootstt
 
 ### Aula 3 ###
 
-- [ ] criar a section do conteudo
-- [ ] criar o conteudo
-- [ ] dividir em divs 
-- [ ] criar o style.css e configurar estilo baseado nos nomes que coloco na classe
+- [x] criar a section do conteudo
+- [x] criar o conteudo
+- [x] dividir em divs 
+- [x] criar o style.css e configurar estilo baseado nos nomes que coloco na classe
+
+### Aula 4 ### 
+
+- [ ] colocar outra imagem criando um corpo
+- [ ] definir tamanho, alinhamento e bordas da imagem 
+- [ ] referenciar a imagem em alguma class <a 
+- [ ] alterar a fonte do body 
 
