@@ -36,8 +36,17 @@ Aula DIO usando bootstt
 
 ### Aula 4 ### 
 
-- [ ] colocar outra imagem criando um corpo
-- [ ] definir tamanho, alinhamento e bordas da imagem 
-- [ ] referenciar a imagem em alguma class <a 
-- [ ] alterar a fonte do body 
+- [x] colocar outra imagem criando um corpo
+- [x] definir tamanho, alinhamento e bordas da imagem 
+- [x] referenciar a imagem em alguma class <a 
+- [x] alterar a fonte do body 
+
+
+
+### Aula 5 ###
+
+- [ ] criar uma section para um footer 
+- [ ] criar div class container 
+- [ ] criar o conteudo, pode ser h1 de teste
+- [ ] ou associar uma imagem e definir o tamanho padrão para o determinado dispositivo
 
