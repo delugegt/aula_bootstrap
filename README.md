@@ -45,8 +45,16 @@ Aula DIO usando bootstt
 
 ### Aula 5 ###
 
-- [ ] criar uma section para um footer 
-- [ ] criar div class container 
-- [ ] criar o conteudo, pode ser h1 de teste
-- [ ] ou associar uma imagem e definir o tamanho padrão para o determinado dispositivo
+- [x] criar uma section para um footer 
+- [x] criar div class container 
+- [x] criar o conteudo, pode ser h1 de teste
+- [x] ou associar uma imagem e definir o tamanho padrão para o determinado dispositivo
 
+
+
+### Aula 6 ###
+
+- [ ] conectar os botões de section id 
+- [ ] ao usar os grids do bootstrap criar na sequencia container , row e col definindo o espaçamento da coluna
+- [ ] pode ser associado a uma linha com coluna, um grupo de conteudos separados por div, imagem e texto por exemplo
+- [ ] codar um footer com mais itens e textos 

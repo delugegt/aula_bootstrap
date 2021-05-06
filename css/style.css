@@ -22,3 +22,8 @@ body {
   background-color: aqua;
 
 }
+
+.bg-footer {
+  background-color: black;
+  color:white;
+}
